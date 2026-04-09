@@ -8,7 +8,7 @@ NeoFront
 - Hit Gohil
 - Paras Khetiya
 - Kunj Paghdal
-- Anshumaa
+- Anshuma
 
 ## Idea Chosen
 Custom: Lumina — Scroll-Storytelling Dev Showcase Platform
